@@ -10,6 +10,7 @@ Created on Wed Mar 20 11:10:14 2019
 # I chose Manchester NH becuase I live here.
 
 #import requests,selenium, os, datetime
+import os
 from selenium import webdriver
 
 def main():
